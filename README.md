@@ -39,7 +39,7 @@ Model yang digunakan: **IBM Granite** via LangChain + Replicate.
 
 ## 🔗 Link Terkait
 - 📓 Google Colab: [https://colab.research.google.com/drive/1SSmVbAQqwInz7jBuqZitKH6RdZddEtEm]  
-- 📊 Presentasi: [[link Google Slides kamu](https://docs.google.com/presentation/d/1YVSI_wkA9LauGRNSOEG1NRIrzqc2-GiO/edit?usp=sharing&ouid=112151750930941962402&rtpof=true&sd=true)]
+- 📊 Presentasi: [https://docs.google.com/presentation/d/1YVSI_wkA9LauGRNSOEG1NRIrzqc2-GiO/edit?usp=sharing&ouid=112151750930941962402&rtpof=true&sd=true]
 
 ---
 
