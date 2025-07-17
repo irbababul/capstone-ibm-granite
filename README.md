@@ -38,10 +38,10 @@ Model yang digunakan: **IBM Granite** via LangChain + Replicate.
 ---
 
 ## 🔗 Link Terkait
-- 📓 Google Colab: [link Google Colab kamu]  
+- 📓 Google Colab: [https://colab.research.google.com/drive/1SSmVbAQqwInz7jBuqZitKH6RdZddEtEm]  
 - 📊 Presentasi: [link Google Slides kamu]
 
 ---
 
 ## 👤 Disusun oleh:
-**Viraa Ayu Fitriana**
+**Muhammad Irbabul Salas**
