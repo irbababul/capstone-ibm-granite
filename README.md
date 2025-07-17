@@ -31,8 +31,8 @@ Model yang digunakan: **IBM Granite** via LangChain + Replicate.
 ---
 
 ## 📦 File dalam Repo
-- `analisis_judul_berita_bersih.ipynb`: Analisis data & LLM
-- `Capstone_Project_Presentation.pptx`: Presentasi akhir proyek
+- `analisis_Tren_dan_klasifikasi_berita_di indonesia.ipynb`: Analisis data & LLM
+- `analisis_Tren_dan_klasifikasi_berita_di indonesia.pptx`: Presentasi akhir proyek
 - `README.md`: Penjelasan proyek
 
 ---
