@@ -1,4 +1,4 @@
-# 📊 Capstone Project: Analisis Judul Berita Indonesia dengan IBM Granite LLM
+## 📊 Capstone Project: Analisis Judul Berita Indonesia dengan IBM Granite LLM
 
 ## 📝 Deskripsi
 Proyek ini menganalisis lebih dari 90.000 judul berita dari detik.com untuk:
